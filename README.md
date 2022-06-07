@@ -1,4 +1,4 @@
-# Mimecast Mailer
+# Mimecast Mailer [![Gem Version](https://badge.fury.io/rb/mimecast_mailer.svg)](https://badge.fury.io/rb/mimecast_mailer)
 
 Send mails using Mimecast API (https://integrations.mimecast.com/documentation/endpoint-reference/email/).
 
